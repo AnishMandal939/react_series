@@ -55,3 +55,6 @@ Previously in 01 series we used cdns links and used React , that is good for pra
 
 
 # this is how we setup the local setup
+
+
+# 03 sessions will be discussing about folder structures
