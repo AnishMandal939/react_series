@@ -14,7 +14,9 @@ Inside app.js File creating fresh first component from scratch
 
 1) Sweet: Lets dive into App.js now
 
-# Note : can we use style react element by using class="" like we did in normal html ? ans : yes but with warning in react you have to replace class with className and style using double curly braces {{}} i.e style={{color: red;}} for inline and for external add className="your_classname" and you can use now external css but in browser if you inspect you will see class instead of className because html donot have any attribute like className so it gets converted to plain html in browser , this basic example shows that it is a jsx elememt/ syntax
+# Note : 
+
+* can we use style react element by using class="" like we did in normal html ? ans : yes but with warning in react you have to replace class with className and style using double curly braces {{}} i.e style={{color: red;}} for inline and for external add className="your_classname" and you can use now external css but in browser if you inspect you will see class instead of className because html donot have any attribute like className so it gets converted to plain html in browser , this basic example shows that it is a jsx elememt/ syntax
 
 
 # we'll see about jsx in upcomming sessions 
