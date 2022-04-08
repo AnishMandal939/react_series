@@ -1,4 +1,4 @@
-    * if you're using react 18 then your global installation of create-react-app is no longer supported because of react 19 updates so you just need to install with following commands, you have to uninstall it first
+    * if you're using react 17 then your global installation of create-react-app is no longer supported because of react 18 updates so you just need to install with following commands, you have to uninstall it first
 
     * if installed using npm - npm uninstall -g create-react-app
     * if installed using yarn - yarn global remove create-react-app
